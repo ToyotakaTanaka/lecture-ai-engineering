@@ -2,6 +2,13 @@ kedro
 scikit-learn
 mlflow
 pandas
+numpy
+pytz
+python-dateutil
+joblib
+scipy
+threadpoolctl
 pytest
+pluggy
 great_expectations
 black
